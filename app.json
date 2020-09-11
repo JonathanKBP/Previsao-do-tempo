@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "previsao-do-tempo",
-    "slug": "previsao-do-tempo",
+    "name": "Previsao-do-tempo",
+    "slug": "Previsao-do-tempo",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
