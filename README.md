@@ -6,7 +6,7 @@
 ## 🚀 Tecnologias
   * [**React-Native**](https://reactnative.dev/) 
   * [**Expo**](https://expo.io/)
-  * [**Api**](https://openweathermap.org/api): API para fazer a listagem da previsão do local. 
+  * [**Api OpenWeather**](https://openweathermap.org/api): API para fazer a listagem da previsão do local. 
 
 <p align="center">
 <p><b>Mobile</b><p/>
